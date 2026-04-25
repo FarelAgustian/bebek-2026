@@ -22,5 +22,5 @@ const spliced = numbers.splice(2, 1);
 console.log(numbers);
 
 //find untuk menemukan elemen pertama yang memenuhi kondisi tertentu
-const found = numbers.find(num => num > 3);
+const found = numbers.find(num => num > 4);
 console.log(found);
